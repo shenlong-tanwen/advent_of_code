@@ -1,0 +1,11 @@
+.DS_Store
+*.beam
+*.ez
+/build
+erl_crash.dump
+
+# Auto-gen
+manifest.toml
+
+# Input file
+/input
